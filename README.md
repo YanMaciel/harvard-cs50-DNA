@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# DNA
+# CS50's DNA
 ## Background
 Basically DNA is really just a sequence of molecules called nucleotides, arranged into a particular shape (a double helix). Each nucleotide of DNA contains one of four different bases: adenine (A), cytosine (C), guanine (G), or thymine (T). Every human cell has billions of these nucleotides arranged in sequence. Some portions of this sequence (i.e. genome) are the same, or at least very similar, across almost all humans, but other portions of the sequence have a higher genetic diversity and thus vary more across the population.
 
